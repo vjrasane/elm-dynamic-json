@@ -1,6 +1,6 @@
 {
   "type": "package",
-  "name": "vjrasane/dynamic-json",
+  "name": "vjrasane/elm-dynamic-json",
   "summary": "Dynamic JSON decoding",
   "license": "Apache-2.0",
   "version": "1.0.0",
